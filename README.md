@@ -11,8 +11,6 @@ A machine learning web application that predicts disease risk based on patient m
 
 ![Screenshot](https://raw.githubusercontent.com/Torajabu/medical-diagnosis-ML-project/main/Screenshot%20from%202025-06-28%2016-23-33.png)
 
-how to display in readme
-
 ## 🌟 Features
 
 - **Interactive Web Interface**: User-friendly Streamlit dashboard
