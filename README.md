@@ -7,7 +7,11 @@ A machine learning web application that predicts disease risk based on patient m
 ![Scikit-learn](https://img.shields.io/badge/sklearn-v1.3+-green.svg)
 
 ## Preview
+![Medical Diagnosis Demo](https://raw.githubusercontent.com/Torajabu/medical-diagnosis-ML-project/main/2025-06-2816-11-56-ezgif.com-video-to-gif-converter.gif)
 
+![Screenshot](https://raw.githubusercontent.com/Torajabu/medical-diagnosis-ML-project/main/Screenshot%20from%202025-06-28%2016-23-33.png)
+
+how to display in readme
 
 ## 🌟 Features
 
