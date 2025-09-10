@@ -5,10 +5,10 @@
 A comprehensive machine learning web application that predicts disease risk based on patient medical parameters using Logistic Regression and Random Forest algorithms. This project provides an interactive Streamlit dashboard for real-time disease risk assessment with confidence scores, enabling healthcare professionals and researchers to compare different ML approaches for medical diagnosis.
 
 ## Results
-https://github.com/Torajabu/medical-diagnosis-ML-project/blob/main/2025-06-2816-11-56-ezgif.com-video-to-gif-converter.gif
+![Results](https://github.com/Torajabu/medical-diagnosis-ML-project/blob/main/2025-06-2816-11-56-ezgif.com-video-to-gif-converter.gif)
 
 ## Data Flow Diagram and System Architecture 
-https://github.com/Torajabu/medical-diagnosis-ML-project/blob/main/arch.svg
+![DFD](https://github.com/Torajabu/medical-diagnosis-ML-project/blob/main/arch.svg)
 
 ## Requirements
 
